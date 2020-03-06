@@ -1,1 +1,1 @@
-{"enable":true,"protocol":"http","host":"47.101.160.98","port":"8089","path":"/request"}
+{"enable":true,"protocol":"http","host":"47.101.160.98","port":"8089","path":"/sxt/request"}
